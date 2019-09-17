@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/maze
+maze.so
+maze.dylib
+maze.dll
+maze.a
+maze.lib
+maze-test-*
+*.exe
+*.o
+*.obj
+*.lst

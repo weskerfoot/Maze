@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"wes"
+	],
+	"copyright": "Copyright © 2019, wes",
+	"description": "Trap Your Software So It Can't Escape",
+	"license": "MIT",
+	"name": "maze",
+  "libs" : ["lxc"]
+}
